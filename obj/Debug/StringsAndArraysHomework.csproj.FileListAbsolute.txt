@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\StringsAndArraysHomework\StringsAndArraysHomework\bin\Debug\StringsAndArraysHomework.exe.config
+C:\Users\User\source\repos\StringsAndArraysHomework\StringsAndArraysHomework\bin\Debug\StringsAndArraysHomework.exe
+C:\Users\User\source\repos\StringsAndArraysHomework\StringsAndArraysHomework\bin\Debug\StringsAndArraysHomework.pdb
+C:\Users\User\source\repos\StringsAndArraysHomework\StringsAndArraysHomework\obj\Debug\StringsAndArraysHomework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StringsAndArraysHomework\StringsAndArraysHomework\obj\Debug\StringsAndArraysHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StringsAndArraysHomework\StringsAndArraysHomework\obj\Debug\StringsAndArraysHomework.exe
+C:\Users\User\source\repos\StringsAndArraysHomework\StringsAndArraysHomework\obj\Debug\StringsAndArraysHomework.pdb
